@@ -17,7 +17,7 @@ const weekdays = [
   "Ponedeljak",
   "Utorak",
   "Sreda",
-  "Cetvratk",
+  "Cetvrtak",
   "Petak",
   "Subota",
 ];
